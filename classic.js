@@ -345,7 +345,7 @@ participant: mek.key.participant
 
 /*let reactionMessage = {
                     react: {
-                        text: `〽️`,
+                        text: `🦊`,
                         key: { remoteJid: m.chat, fromMe: true, id: mek.key.id }
                     }
                 }
